@@ -1,0 +1,6 @@
+input server id into code
+input channel id into code
+create a token text file with only the token in it
+Run program 
+
+
